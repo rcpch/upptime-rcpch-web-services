@@ -6,6 +6,10 @@ sites:
     url: https://growth.rcpch.ac.uk
   - name: Check GET dev.rcpch.ac.uk responds
     url: https://dev.rcpch.ac.uk
+  - name: Check GET api.rcpch.ac.uk without Auth returns 401
+    url: https://api.rcpch.ac.uk
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
