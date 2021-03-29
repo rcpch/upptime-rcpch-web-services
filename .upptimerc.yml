@@ -7,7 +7,7 @@ sites:
   - name: Check GET dev.rcpch.ac.uk responds
     url: https://dev.rcpch.ac.uk
   - name: Check GET api.rcpch.ac.uk without Auth returns 401
-    url: https://api.rcpch.ac.uk
+    url: https://api.rcpch.ac.uk/v1/growth
     expectedStatusCodes:
       - 401
 
