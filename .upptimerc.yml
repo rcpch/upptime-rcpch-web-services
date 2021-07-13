@@ -20,6 +20,7 @@ status-website:
   name: RCPCH Uptime Monitors
   introTitle: "RCPCH Digital Growth Charts Status Page"
   introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  themeUrl: "https://github.com/rcpch/upptime-rcpch-web-services/blob/9201dd20a8ffffa83facaf9f4fcf8760a89c29c2/assets/rcpch-theme.css"
   navbar:
     - title: RCPCH Upptime GitHub repo
       href: https://github.com/$OWNER/$REPO
