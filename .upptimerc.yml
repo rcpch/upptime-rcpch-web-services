@@ -18,12 +18,10 @@ status-website:
   baseUrl: /upptime-rcpch-web-services
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: RCPCH Uptime Monitors
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "RCPCH Digital Growth Charts Status Page"
+  introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
+    - title: RCPCH Upptime GitHub repo
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
