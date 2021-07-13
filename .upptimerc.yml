@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime-rcpch-web-services
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/rcpch/digital-growth-charts-documentation/blob/b08963b47bcc6420ef7c2027b9f70eeb4e7cc314/docs/_assets/_images/rcpch_logo.png
   name: RCPCH Uptime Monitors
   introTitle: "RCPCH Digital Growth Charts Status Page"
   introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
