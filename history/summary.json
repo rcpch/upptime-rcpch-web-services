@@ -22,7 +22,7 @@
     "url": "https://dev.rcpch.ac.uk",
     "icon": "https://favicons.githubusercontent.com/dev.rcpch.ac.uk",
     "slug": "check-get-dev-rcpch-ac-uk-responds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1079,
     "timeDay": 804,
     "timeWeek": 774,
-    "timeMonth": 832,
+    "timeMonth": 837,
     "timeYear": 1079,
     "dailyMinutesDown": {}
   },
